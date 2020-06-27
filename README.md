@@ -1,9 +1,9 @@
 # Detection-Osteoporose
-__Study of bone fragility : Application for osteoporosis detection
+__Study of bone fragility : Application for osteoporosis detection__
 
 This project involves classifying images of bone to predict whether the person has osteoporosis or not. 
 
-__Texture analysis of an image
+__Texture analysis of an image__
 
 In order to analyse the texture of an image , we use different methods : 
 -Gray Level Co-occurrence Matrix (GLCM)	
