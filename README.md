@@ -1,2 +1,2 @@
 # Detection-Osteoporose
-Etude de la fragilité osseuse : Application à la détection de l'ostéoporose
+Study of bone fragility : Application for osteoporosis detection
